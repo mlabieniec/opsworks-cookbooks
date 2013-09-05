@@ -1,3 +1,3 @@
 [submodule "opsworks-copperegg"]
 	path = opsworks-copperegg
-	url = https://github.com/nationalfield/opsworks-cookbooks
+	url = git@github.com:CopperEgg/chef-copperegg.git
