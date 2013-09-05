@@ -1,3 +1,3 @@
 [submodule "opsworks-copperegg"]
 	path = opsworks-copperegg
-	url = git@github.com:CopperEgg/chef-copperegg.git
+	url = https://github.com/CopperEgg/chef-copperegg.git
